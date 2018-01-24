@@ -38,6 +38,8 @@
       <properties class="hudson.model.View$PropertyList"/>
       <jobNames>
         <comparator class="hudson.util.CaseInsensitiveComparator"/>
+        <string>test</string>
+        <string>test_git</string>
       </jobNames>
       <jobFilters/>
       <columns>
